@@ -1,5 +1,3 @@
-# Quote-App
-
 # Quote App by Yussif Adam
 
 This is a simple web application that displays a random quote fetched from the [Quotable API](https://api.quotable.io/random). Users can generate new quotes by clicking the "New Quote" button and share their favorite quotes on Twitter using the "Tweet" button.
