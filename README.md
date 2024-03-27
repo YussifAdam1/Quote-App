@@ -5,6 +5,7 @@ This is a simple web application that displays a random quote fetched from the [
 ## Usage
 
 To use the app, simply open the [Quote App](https://github.com/YussifAdam1/Quote-App) link and enjoy a daily dose of inspiration.
+Or [Quote App](https://yussifadam1.github.io/Quote-App/)
 
 ## Features
 
