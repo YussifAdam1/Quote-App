@@ -4,7 +4,7 @@ This is a simple web application that displays a random quote fetched from the [
 
 ## Usage
 
-To use the app, simply open the [Quote App](https://yussifadam.github.io/quote-app/) link and enjoy a daily dose of inspiration.
+To use the app, simply open the [Quote App](https://github.com/YussifAdam1/Quote-App) link and enjoy a daily dose of inspiration.
 
 ## Features
 
@@ -18,7 +18,7 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 ## Author
 
-This project was created by Yussif Adam. You can find more about me and my projects on [GitHub](https://github.com/yussifadam).
+This project was created by Yussif Adam. You can find more about me and my projects on [GitHub](https://github.com/YussifAdam1).
 
 ## License
 
